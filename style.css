@@ -86,7 +86,7 @@ nav ul{
     font-weight: bolder;
 }
 
-.line{
+/* .line{
     background-color: black;
     width: 0vw;
     height: 3px;
@@ -94,7 +94,7 @@ nav ul{
     background-color: rgba(14, 1, 29, 0.932);
     border-radius: 10px;
     transition: width 1s ease-in-out;
-}
+} */
 
 @media screen and (max-width: 800px)
 {
